@@ -1,0 +1,77 @@
+D:\III BCA\APMS\APMS\obj\x86\Debug\APMS.csprojResolveAssemblyReference.cache
+D:\III BCA\APMS\APMS\obj\x86\Debug\APMS.attdrec.resources
+D:\III BCA\APMS\APMS\obj\x86\Debug\APMS.login.resources
+D:\III BCA\APMS\APMS\obj\x86\Debug\APMS.Properties.Resources.resources
+D:\III BCA\APMS\APMS\obj\x86\Debug\APMS.csproj.GenerateResource.Cache
+D:\III BCA\APMS\APMS\bin\Debug\coursedat.mdf
+D:\III BCA\APMS\APMS\bin\Debug\coursedat_log.LDF
+D:\III BCA\APMS\APMS\bin\Debug\APMS.exe
+D:\III BCA\APMS\APMS\bin\Debug\APMS.pdb
+D:\III BCA\APMS\APMS\obj\x86\Debug\APMS.exe
+D:\III BCA\APMS\APMS\obj\x86\Debug\APMS.pdb
+D:\III BCA\APMS\APMS\obj\x86\Debug\APMS.attdretstud.resources
+D:\III BCA\APMS\APMS\obj\x86\Debug\APMS.attdretsess.resources
+D:\III BCA\APMS\APMS\obj\x86\Debug\APMS.attdpercret.resources
+D:\III BCA\APMS\APMS\obj\x86\Debug\APMS.eventrec.resources
+D:\III BCA\APMS\APMS\obj\x86\Debug\APMS.eventsearch.resources
+D:\III BCA\APMS\APMS\obj\x86\Debug\APMS.marksscrec.resources
+D:\III BCA\APMS\APMS\obj\x86\Debug\APMS.mainapms.resources
+D:\III BCA\APMS\APMS\obj\x86\Debug\APMS.subjdetrec.resources
+D:\III BCA\APMS\APMS\obj\x86\Debug\APMS.lectdetreg.resources
+D:\III BCA\APMS\APMS\obj\x86\Debug\APMS.subjdetsear.resources
+E:\APMS\obj\x86\Debug\APMS.exe
+E:\APMS\obj\x86\Debug\APMS.pdb
+D:\III BCA\APMS\bin\Debug\APMS.exe.config
+D:\III BCA\APMS\bin\Debug\APMS.exe
+D:\III BCA\APMS\bin\Debug\APMS.pdb
+D:\III BCA\APMS\obj\x86\Debug\apms.csprojResolveAssemblyReference.cache
+D:\III BCA\APMS\obj\x86\Debug\APMS.attdpercret.resources
+D:\III BCA\APMS\obj\x86\Debug\APMS.attdrec.resources
+D:\III BCA\APMS\obj\x86\Debug\APMS.attdretsess.resources
+D:\III BCA\APMS\obj\x86\Debug\APMS.attdretstud.resources
+D:\III BCA\APMS\obj\x86\Debug\APMS.eventrec.resources
+D:\III BCA\APMS\obj\x86\Debug\APMS.eventsearch.resources
+D:\III BCA\APMS\obj\x86\Debug\APMS.lectdetreg.resources
+D:\III BCA\APMS\obj\x86\Debug\APMS.login.resources
+D:\III BCA\APMS\obj\x86\Debug\APMS.mainapms.resources
+D:\III BCA\APMS\obj\x86\Debug\APMS.marksscor.resources
+D:\III BCA\APMS\obj\x86\Debug\APMS.marksscstud.resources
+D:\III BCA\APMS\obj\x86\Debug\APMS.Properties.Resources.resources
+D:\III BCA\APMS\obj\x86\Debug\APMS.studcldet.resources
+D:\III BCA\APMS\obj\x86\Debug\APMS.studdet.resources
+D:\III BCA\APMS\obj\x86\Debug\APMS.subjdetrec.resources
+D:\III BCA\APMS\obj\x86\Debug\APMS.subjdetsear.resources
+D:\III BCA\APMS\obj\x86\Debug\apms.csproj.GenerateResource.Cache
+D:\III BCA\APMS\obj\x86\Debug\APMS.exe
+D:\III BCA\APMS\obj\x86\Debug\APMS.pdb
+D:\III BCA\APMS\obj\x86\Debug\APMS.about.resources
+G:\III BCA\APMS\bin\Debug\APMS.exe.config
+G:\III BCA\APMS\obj\x86\Debug\APMS.exe
+G:\III BCA\APMS\obj\x86\Debug\APMS.pdb
+D:\APMS\bin\Debug\APMS.exe.config
+D:\APMS\bin\Debug\APMS.exe
+D:\APMS\bin\Debug\APMS.pdb
+D:\APMS\obj\x86\Debug\APMS.about.resources
+D:\APMS\obj\x86\Debug\APMS.attdpercret.resources
+D:\APMS\obj\x86\Debug\APMS.attdrec.resources
+D:\APMS\obj\x86\Debug\APMS.attdretsess.resources
+D:\APMS\obj\x86\Debug\APMS.attdretstud.resources
+D:\APMS\obj\x86\Debug\APMS.eventrec.resources
+D:\APMS\obj\x86\Debug\APMS.eventsearch.resources
+D:\APMS\obj\x86\Debug\APMS.lectdetreg.resources
+D:\APMS\obj\x86\Debug\APMS.login.resources
+D:\APMS\obj\x86\Debug\APMS.mainapms.resources
+D:\APMS\obj\x86\Debug\APMS.marksscor.resources
+D:\APMS\obj\x86\Debug\APMS.marksscstud.resources
+D:\APMS\obj\x86\Debug\APMS.Properties.Resources.resources
+D:\APMS\obj\x86\Debug\APMS.studcldet.resources
+D:\APMS\obj\x86\Debug\APMS.studdet.resources
+D:\APMS\obj\x86\Debug\APMS.subjdetrec.resources
+D:\APMS\obj\x86\Debug\APMS.subjdetsear.resources
+D:\APMS\obj\x86\Debug\apms.csproj.GenerateResource.Cache
+D:\APMS\obj\x86\Debug\APMS.exe
+D:\APMS\obj\x86\Debug\APMS.pdb
+D:\APMS\bin\Debug\coursedat.mdf
+D:\APMS\bin\Debug\coursedat_log.LDF
+D:\APMS\obj\x86\Debug\apms.csproj.AssemblyReference.cache
+D:\APMS\obj\x86\Debug\apms.csproj.CoreCompileInputs.cache

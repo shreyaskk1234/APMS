@@ -1,0 +1,47 @@
+D:\III BCA\APMS\bin\Release\APMS.exe.config
+D:\III BCA\APMS\bin\Release\APMS.exe
+D:\III BCA\APMS\bin\Release\APMS.pdb
+D:\III BCA\APMS\obj\x86\Release\APMS.attdpercret.resources
+D:\III BCA\APMS\obj\x86\Release\APMS.attdrec.resources
+D:\III BCA\APMS\obj\x86\Release\APMS.attdretsess.resources
+D:\III BCA\APMS\obj\x86\Release\APMS.attdretstud.resources
+D:\III BCA\APMS\obj\x86\Release\APMS.eventrec.resources
+D:\III BCA\APMS\obj\x86\Release\APMS.eventsearch.resources
+D:\III BCA\APMS\obj\x86\Release\APMS.lectdetreg.resources
+D:\III BCA\APMS\obj\x86\Release\APMS.login.resources
+D:\III BCA\APMS\obj\x86\Release\APMS.mainapms.resources
+D:\III BCA\APMS\obj\x86\Release\APMS.marksscor.resources
+D:\III BCA\APMS\obj\x86\Release\APMS.marksscstud.resources
+D:\III BCA\APMS\obj\x86\Release\APMS.Properties.Resources.resources
+D:\III BCA\APMS\obj\x86\Release\APMS.studcldet.resources
+D:\III BCA\APMS\obj\x86\Release\APMS.studdet.resources
+D:\III BCA\APMS\obj\x86\Release\APMS.subjdetrec.resources
+D:\III BCA\APMS\obj\x86\Release\APMS.subjdetsear.resources
+D:\III BCA\APMS\obj\x86\Release\apms.csproj.GenerateResource.Cache
+D:\III BCA\APMS\obj\x86\Release\APMS.exe
+D:\III BCA\APMS\obj\x86\Release\APMS.pdb
+D:\III BCA\APMS\obj\x86\Release\APMS.about.resources
+D:\APMS\bin\Release\APMS.exe.config
+D:\APMS\bin\Release\APMS.exe
+D:\APMS\bin\Release\APMS.pdb
+D:\APMS\obj\x86\Release\apms.csprojResolveAssemblyReference.cache
+D:\APMS\obj\x86\Release\APMS.about.resources
+D:\APMS\obj\x86\Release\APMS.attdpercret.resources
+D:\APMS\obj\x86\Release\APMS.attdrec.resources
+D:\APMS\obj\x86\Release\APMS.attdretsess.resources
+D:\APMS\obj\x86\Release\APMS.attdretstud.resources
+D:\APMS\obj\x86\Release\APMS.eventrec.resources
+D:\APMS\obj\x86\Release\APMS.eventsearch.resources
+D:\APMS\obj\x86\Release\APMS.lectdetreg.resources
+D:\APMS\obj\x86\Release\APMS.login.resources
+D:\APMS\obj\x86\Release\APMS.mainapms.resources
+D:\APMS\obj\x86\Release\APMS.marksscor.resources
+D:\APMS\obj\x86\Release\APMS.marksscstud.resources
+D:\APMS\obj\x86\Release\APMS.Properties.Resources.resources
+D:\APMS\obj\x86\Release\APMS.studcldet.resources
+D:\APMS\obj\x86\Release\APMS.studdet.resources
+D:\APMS\obj\x86\Release\APMS.subjdetrec.resources
+D:\APMS\obj\x86\Release\APMS.subjdetsear.resources
+D:\APMS\obj\x86\Release\apms.csproj.GenerateResource.Cache
+D:\APMS\obj\x86\Release\APMS.exe
+D:\APMS\obj\x86\Release\APMS.pdb
